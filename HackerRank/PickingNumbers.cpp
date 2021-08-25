@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-int A[1000];
+
 int main(){
+    vector<int> A(1000, 0);
     int n,i,a;
     cin>>n;
     
