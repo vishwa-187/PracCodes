@@ -1,0 +1,8 @@
+to return a*b
+
+
+     
+     
+     return (1LL*a*b) % 1000000007;
+        
+  1/1LL used to make the product long long or integer sign overflow will occur
